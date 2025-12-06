@@ -57,9 +57,21 @@ Para ofrecer este servicio "Mejorado" de seguridad alineado con la marca Dolbuck
 * **Viabilidad Técnica:** El proyecto es viable mediante **virtualización**. Se simulará el entorno utilizando un hipervisor (Proxmox o VirtualBox), permitiendo crear topologías de red complejas (DMZ, LAN, Gestión) sin coste de hardware físico adicional.
 * **Viabilidad Económica:** Se utilizará un stack tecnológico  **100% Open Source** (Linux, Docker, MariaDB, PfSense). Esto maximiza el margen de beneficio, ya que el coste principal será la ingeniería (horas de técnico ASIR) y no las licencias de software propietario.
 
+
+
+![Tecnologia](./img/Linux.png)
+
+
+
+
+
 ### 5. Obligaciones legales y normativas
 
 Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pilar central. Se seguirá estrictamente lo establecido por el **Centro Criptológico Nacional (CCN)**:
+
+
+
+![ENS](./img/ENS.png)
 
 1.  **Esquema Nacional de Seguridad (ENS):**
     * Se aplicará la **Metodología Eficiente de Adecuación (μCeENS)** para garantizar la conformidad del sistema.
