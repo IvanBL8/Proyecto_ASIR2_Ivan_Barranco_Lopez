@@ -16,6 +16,7 @@
 # Infraestructura de Alta Disponibilidad para E-Commerce Seguro (Dolbuck Secure Cloud)
 
 
+![Logo Dolbuck](./img/Dolbuck.png)
 ---
 
 ### 1. Análisis del sector tecnológico
