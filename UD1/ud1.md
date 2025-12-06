@@ -130,4 +130,5 @@ Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pi
 * OWASP Cheat Sheet Series. *Docker Security Cheat Sheet*. [https://cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org)
 * Reglas de OWASP :[ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/)
 * Analisis de Entorno: [sevillacityone.com](https://sevillacityone.com/la-provincia-de-sevilla-lidera-el-sector-tic-con-el-40-del-peso-andaluz/)
+* Ransomware  [https://www.incibe.es](https://www.incibe.es/empresas/tematicas/ransomware)
 
