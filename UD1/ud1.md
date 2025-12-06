@@ -33,7 +33,7 @@ El proyecto se enmarca dentro de la estructura de **Dolbuck**, una empresa real 
 * **Empresa:** **Dolbuck Ciberseguridad**.
 * **Ubicación:** Calle Nobel nº 3, Edificio Logos 2, Parque Industrial PISA, 41927 Mairena del Aljarafe (Sevilla).
 * **Actividad:** Servicios de Ciberseguridad, Auditoría de Hacking Ético, Informática Forense y formación especializada.
-* **Contexto del Proyecto (Simulado):**
+* **Contexto del Proyecto:**
     * Dolbuck requiere modernizar su propia infraestructura interna para ofrecer un nuevo servicio a sus clientes.
     * **Necesidad Detectada:** La empresa necesita desplegar una plataforma de **"Alojamiento Blindado"** (*Secure Hosting*).
     * **Objetivo:** Crear una infraestructura propia de **Alta Disponibilidad y Seguridad Bastionada** para hospedar aplicaciones críticas de clientes, garantizando que el servicio se mantenga online incluso bajo ataques.
