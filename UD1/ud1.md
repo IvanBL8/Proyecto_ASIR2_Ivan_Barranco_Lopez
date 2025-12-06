@@ -35,7 +35,7 @@ El proyecto se enmarca dentro de la estructura de **Dolbuck**, una empresa real 
 
 ### 3. Identificación de necesidades tecnológicas
 
-Para ofrecer este servicio "Premium" de seguridad alineado con la marca Dolbuck, la infraestructura debe cumplir requisitos técnicos avanzados. Se han identificado las siguientes necesidades y soluciones curriculares:
+Para ofrecer este servicio "Mejorado" de seguridad alineado con la marca Dolbuck, la infraestructura debe cumplir requisitos técnicos avanzados. Se han identificado las siguientes necesidades y soluciones curriculares:
 
 | Necesidad Detectada | Solución Tecnológica Propuesta |
 | :--- | :--- |
@@ -49,7 +49,7 @@ Para ofrecer este servicio "Premium" de seguridad alineado con la marca Dolbuck,
 
 * **Oportunidad de Mercado:** Permite a Dolbuck diferenciar su oferta integrando la seguridad desde la capa de infraestructura ("Security by Design").
 * **Viabilidad Técnica:** El proyecto es viable mediante **virtualización**. Se simulará el entorno utilizando un hipervisor (Proxmox o VirtualBox), permitiendo crear topologías de red complejas (DMZ, LAN, Gestión) sin coste de hardware físico adicional.
-* **Viabilidad Económica:** Se utilizará un stack tecnológico 100% **Open Source** (Linux, Docker, MariaDB, PfSense). Esto maximiza el margen de beneficio, ya que el coste principal será la ingeniería (horas de técnico ASIR) y no las licencias de software propietario.
+* **Viabilidad Económica:** Se utilizará un stack tecnológico  **100% Open Source** (Linux, Docker, MariaDB, PfSense). Esto maximiza el margen de beneficio, ya que el coste principal será la ingeniería (horas de técnico ASIR) y no las licencias de software propietario.
 
 ### 5. Obligaciones legales y normativas
 
