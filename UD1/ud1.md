@@ -51,6 +51,11 @@ Para ofrecer este servicio "Mejorado" de seguridad alineado con la marca Dolbuck
 | **Sistema Operativo Robusto**<br>(Escalada de privilegios) | **Linux Hardening:** Uso de Linux (Rocky/Debian) con políticas estrictas (Sudo, SELinux, Auditoría).
 | **Aislamiento de Entornos**<br>(Seguridad lateral) | **Segmentación de Red:** Uso de VLANs y contenedores Docker para aislar clientes y laboratorios.
 
+
+![Diagrama](./img/Diagrama.png)
+
+
+
 ### 4. Oportunidades y viabilidad del proyecto
 
 * **Oportunidad de Mercado:** Permite a Dolbuck diferenciar su oferta integrando la seguridad desde la capa de infraestructura ("Security by Design").
