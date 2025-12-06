@@ -24,7 +24,7 @@
 El sector TIC en Sevilla y su área metropolitana (especialmente en parques tecnológicos como Cartuja y PISA) está experimentando una transformación forzada por el aumento exponencial de ciberataques. Las PYMES andaluzas son un objetivo creciente del *Ransomware* debido a la debilidad de sus infraestructuras base y la falta de personal cualificado.
 
 * **El Problema del Sector:** Muchas empresas locales delegan su presencia digital en proveedores de hosting masivo que carecen de medidas de seguridad ofensiva/defensiva, monitorización activa o alta disponibilidad real.
-* **La Demanda Laboral (IPE II):** Existe un déficit crítico de administradores de sistemas (perfil ASIR) capaces de diseñar arquitecturas de "Defensa en Profundidad". Las empresas buscan perfiles que no solo administren servidores, sino que sepan asegurarlos según el **Esquema Nacional de Seguridad (ENS)**.
+* **La Demanda Laboral:** Existe un déficit crítico de administradores de sistemas (perfil ASIR) capaces de diseñar arquitecturas de "Defensa en Profundidad". Las empresas buscan perfiles que no solo administren servidores, sino que sepan asegurarlos según el **Esquema Nacional de Seguridad (ENS)**.
 * **Contexto Local:** El **Parque Industrial PISA** (Mairena del Aljarafe) concentra un alto número de empresas de servicios que demandan soluciones de **MSSP (Managed Security Service Provider)** para externalizar la seguridad de sus activos críticos.
 
 ### 2. Selección de la empresa o contexto de trabajo
