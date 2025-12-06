@@ -126,7 +126,7 @@ Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pi
 
 **Documentación Técnica:**
 * Documentación oficial de **Docker**: [docs.docker.com](https://docs.docker.com)
-* Guías de Bastionado **OWASP**: [owasp.org]([https://owasp.org](https://owasp.org/www-project-wafcontrol/))
+* Guías de Bastionado **OWASP**: [owasp.org](https://owasp.org/www-project-wafcontrol/)
 * --[Modsecurity](https://owasp.org/www-project-modsecurity/)
 * OWASP Cheat Sheet Series. *Docker Security Cheat Sheet*. [https://cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org)
 * Reglas de OWASP :[ModSecurity Core Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/)
