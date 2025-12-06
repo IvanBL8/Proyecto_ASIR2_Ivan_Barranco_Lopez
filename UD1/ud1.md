@@ -102,7 +102,7 @@ Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pi
 ## Bibliografía / Webgrafía
 
 **Normativa Técnica:**
-* **Centro Criptológico Nacional (2025).**  [*CCN-STIC-890: Guía de Adecuación al ENS conforme al Perfil de Cumplimiento Específico de Requisitos Fundamentales de Seguridad*.](/documentos/CCN.pdf) . Secciones 3 y 4.
+* **Centro Criptológico Nacional (2025).**  [*CCN-STIC-890: Guía de Adecuación al ENS conforme al Perfil de Cumplimiento Específico de Requisitos Fundamentales de Seguridad*.](./documentos/CCN.pdf) . Secciones 3 y 4.
 
 **Información Corporativa:**
 * **Dolbuck Ciberseguridad.** *Sitio web corporativo y Aviso Legal*. Consultado en 2024. [https://dolbuck.net](https://dolbuck.net)
