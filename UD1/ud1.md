@@ -13,7 +13,7 @@
 - [ ] **Anexo: Documentación y Diagramas**
 
 
-**Proyecto:** Infraestructura de Alta Disponibilidad para E-Commerce Seguro (Dolbuck Secure Cloud)
+# **Proyecto:** Infraestructura de Alta Disponibilidad para E-Commerce Seguro (Dolbuck Secure Cloud)
 
 
 ---
