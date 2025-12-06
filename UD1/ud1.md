@@ -10,8 +10,13 @@
 - [ ] **4. Oportunidades y viabilidad del proyecto**
 - [ ] **5. Obligaciones legales y normativas**
 - [ ] **6. Guion inicial del proyecto**
+- [ ] **Anexo: Documentación y Diagramas**
 
 
+**Proyecto:** Infraestructura de Alta Disponibilidad para E-Commerce Seguro (Dolbuck Secure Cloud)
+
+
+---
 
 ### 1. Análisis del sector tecnológico
 
@@ -40,7 +45,7 @@ Para ofrecer este servicio "Mejorado" de seguridad alineado con la marca Dolbuck
 | Necesidad Detectada | Solución Tecnológica Propuesta |
 | :--- | :--- |
 | **Protección contra ataques Web**<br>(SQLi, XSS, DDoS) | **WAF (Web Application Firewall):** Implementación de reglas OWASP sobre un Proxy Inverso (Nginx + ModSecurity).
-| **Continuidad de Negocio**<br>(Caída de servidores) | **Cluster de Alta Disponibilidad:** Balanceadores de carga (HAProxy) y redundancia de nodos.
+| **Continuidad de Negocio**<br>(Caída de servidores) | **Cluster de Alta Disponibilidad:** Balanceadores de carga (HAProxy) y redundancia de nodos. 
 | **Integridad de la Información**<br>(Datos sensibles) | **BBDD Segura:** Servidor de Base de Datos aislado en red interna, con cifrado de datos en reposo.
 | **Sistema Operativo Robusto**<br>(Escalada de privilegios) | **Linux Hardening:** Uso de Linux (Rocky/Debian) con políticas estrictas (Sudo, SELinux, Auditoría).
 | **Aislamiento de Entornos**<br>(Seguridad lateral) | **Segmentación de Red:** Uso de VLANs y contenedores Docker para aislar clientes y laboratorios.
@@ -56,12 +61,12 @@ Para ofrecer este servicio "Mejorado" de seguridad alineado con la marca Dolbuck
 Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pilar central. Se seguirá estrictamente lo establecido por el **Centro Criptológico Nacional (CCN)**:
 
 1.  **Esquema Nacional de Seguridad (ENS):**
-    * [cite_start]Se aplicará la **Metodología Eficiente de Adecuación (μCeENS)** para garantizar la conformidad del sistema[cite: 5].
-    * [cite_start]El diseño se basará en el **Perfil de Cumplimiento Específico de Requisitos Fundamentales de Seguridad (PCE-RFS)**[cite: 5].
-    * [cite_start]Se realizará un **Diagnóstico de Cumplimiento** previo a través del Portal de Gobernanza para evaluar la idoneidad del sistema[cite: 5].
+    * Se aplicará la **Metodología Eficiente de Adecuación (μCeENS)** para garantizar la conformidad del sistema.
+    * El diseño se basará en el **Perfil de Cumplimiento Específico de Requisitos Fundamentales de Seguridad (PCE-RFS)**.
+    * Se realizará un **Diagnóstico de Cumplimiento** previo a través del Portal de Gobernanza para evaluar la idoneidad del sistema.
 2.  **Análisis de Riesgos:**
-    * [cite_start]Conforme al **Anexo II del RD 311/2022** y validado mediante el **Módulo de Verificación (MVPCR)** para asegurar que las 38 medidas de seguridad mitigan los riesgos residuales[cite: 8].
-    * [cite_start]Se establecerá un modelo de gobernanza que defina los roles de **Responsable de la Información, del Servicio y del Sistema**[cite: 6].
+    * Conforme al **Anexo II del RD 311/2022** y validado mediante el **Módulo de Verificación (MVPCR)** para asegurar que las 38 medidas de seguridad mitigan los riesgos residuales.
+    * Se establecerá un modelo de gobernanza que defina los roles de **Responsable de la Información, del Servicio y del Sistema**.
 3.  **RGPD:** Implementación de cifrado en copias de seguridad y gestión de logs de acceso.
 
 ### 6. Guion inicial del proyecto
@@ -83,7 +88,7 @@ Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pi
 * [ ] Pruebas de estrés y simulación de ataques para validar la disponibilidad.
 
 **Fase 5: Documentación y Planes (IPE II)**
-* [cite_start][ ] Elaboración de la Política de Seguridad y Declaración de Aplicabilidad[cite: 7, 8].
+* [ ] Elaboración de la Política de Seguridad y Declaración de Aplicabilidad.
 * [ ] Plan de Adecuación y Continuidad de Negocio.
 
 ---
@@ -96,7 +101,7 @@ Al tratarse de una empresa de ciberseguridad, el cumplimiento normativo es el pi
 ## Bibliografía / Webgrafía
 
 **Normativa Técnica:**
-* **Centro Criptológico Nacional (2025).** *CCN-STIC-890: Guía de Adecuación al ENS conforme al Perfil de Cumplimiento Específico de Requisitos Fundamentales de Seguridad*. [cite_start]Edición de Noviembre 2025. Secciones 3 y 4.[cite: 1, 2, 4].
+* **Centro Criptológico Nacional (2025).**  [*CCN-STIC-890: Guía de Adecuación al ENS conforme al Perfil de Cumplimiento Específico de Requisitos Fundamentales de Seguridad*.](/documentos/CCN.pdf) . Secciones 3 y 4.
 
 **Información Corporativa:**
 * **Dolbuck Ciberseguridad.** *Sitio web corporativo y Aviso Legal*. Consultado en 2024. [https://dolbuck.net](https://dolbuck.net)
